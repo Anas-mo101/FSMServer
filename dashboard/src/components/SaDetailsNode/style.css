@@ -1,0 +1,25 @@
+.text-updater-sa-node {
+    height: 40px;
+    width: 150px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    background: white;
+}
+
+.text-updater-sa-node p {
+    text-align: center;
+    margin: 6px;
+    font-size: 12px;
+}
+
+.node-buttons{
+    position: absolute;
+    top: 0px;
+    right: 5px;
+}
+
+.node-buttons button {
+    font-size: 8px;
+    margin-left: 2px;
+}

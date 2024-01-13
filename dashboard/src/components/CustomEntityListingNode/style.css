@@ -1,0 +1,30 @@
+.container-main-node {
+    height: 65px;
+    width: 300px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    background: white;
+}
+
+.container-main-node label {
+    display: block;
+    color: #777;
+    font-size: 12px;
+}
+
+.slc {
+    margin-top: 5px;
+    height: 30px;
+}
+
+.node-buttons{
+    position: absolute;
+    top: 0px;
+    right: 5px;
+}
+
+.node-buttons button {
+    font-size: 8px;
+    margin-left: 2px;
+}
